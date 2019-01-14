@@ -1,6 +1,6 @@
-# Dash Sentinel
+# WOLF Sentinel
 
-An all-powerful toolset for Dash.
+An all-powerful toolset for WolfCoin.
 
 [![Build Status](https://travis-ci.org/dashpay/sentinel.svg?branch=master)](https://travis-ci.org/dashpay/sentinel)
 
